@@ -80,6 +80,10 @@
         "phpstan/phpstan-phpunit": "^1.4",
         "phpstan/phpstan-strict-rules": "^1.6",
         "phpstan/phpstan-symfony": "^1.4",
-        "spaze/phpstan-disallowed-calls": "^3.4"
+        "phpunit/phpunit": "^11.3",
+        "spaze/phpstan-disallowed-calls": "^3.4",
+        "symfony/browser-kit": "7.1.*",
+        "symfony/css-selector": "7.1.*",
+        "symfony/phpunit-bridge": "^7.1"
     }
 }
