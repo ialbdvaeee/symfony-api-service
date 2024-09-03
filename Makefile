@@ -62,3 +62,6 @@ cc: sf
 
 csfix:
 	@$(PHP_CONT) vendor/bin/php-cs-fixer fix -v
+
+phpstan:
+	@$(PHP_CONT) vendor/bin/phpstan
